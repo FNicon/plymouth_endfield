@@ -1,6 +1,6 @@
 {
-  "abstract_ring" = {
-    url = "https://github.com/FNicon/plymouth_endfield/releases/download/v1.0/abstract_ring.tar.gz";
-    sha = "0hfrzm974nm8f237vzlyjjh4pikva3n7fqr1p7jmx04g857g4rjq";
+  "loading" = {
+    url = "https://github.com/FNicon/plymouth_endfield/releases/download/test/loading.tar.gz";
+    sha = "0a7cfb9b054cb0418f4b3cbffe8f449ef12e96cda893299f36ecbde9bc6f03be";
   };
 }
